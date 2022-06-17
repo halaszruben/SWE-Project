@@ -1,0 +1,16 @@
+.squareGravel {
+    -fx-border-style: solid;
+}
+
+.squareGravel {
+    -fx-background-color: #654321;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.squareGravel:hover {
+    -fx-background-color: #0fd7aa;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
